@@ -4,7 +4,7 @@ Do country-level economic and social indicators line up with how many cars a com
 This Tableau workbook blends an auto-sales order dataset with a 2023 country-indicators dataset and explores
 five questions with one dashboard each.
 
-*First project for STAT 112 (Introduction to Data Processing and Visualization), Department of Statistics,
+*Coursework for STAT 112 (Introduction to Data Processing and Visualization), Department of Statistics,
 METU — Fall 2024.*
 
 ## Data
